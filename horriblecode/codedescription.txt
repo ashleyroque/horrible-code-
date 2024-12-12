@@ -1,0 +1,14 @@
+Good Code
+In code.py, I used good coding principles.
+I used KISS by keeping the functions as simple as possible.
+I used DRY code, by not repeating any code in the file
+I used Single Responsibility, as each function is expected to do only one thing.
+
+Bad Code
+In horriblecode.py, I didn't handle exceptions given that a value was divided by 0.
+I used repetitive code when it was asking for inputs, instead of abstracting it
+The main function is doing too much, as its displaying the menu, handling input,
+performing and printing results. All of which should've been abstracted to their
+own functions.
+
+
